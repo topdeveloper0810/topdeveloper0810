@@ -26,9 +26,10 @@
 
 ## 📞Contact Me📞
 
-- 🎧 Skype: live:.cid.c7efd70698e49df0  😥Non-active
-- ☎ Telegram : excellent_coder
-- 📠 Discord: erwinhofmann647
+- Gmail: laideming935@gmail.com
+- 🎧 Skype: live:.cid.743e06823719d20d
+- ☎ Telegram : golden_developer
+- 📠 Discord: ldm_0810
 
 ## 🏫Education🏫
 
