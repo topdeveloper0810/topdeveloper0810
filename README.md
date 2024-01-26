@@ -29,7 +29,7 @@
 - Gmail: laideming935@gmail.com
 - 🎧 Skype: live:.cid.743e06823719d20d
 - ☎ Telegram : golden_developer
-- 📠 Discord: ldm_0810
+- 📠 Discord: ld_0810
 
 ## 🏫Education🏫
 
