@@ -19,7 +19,10 @@
 ✅ Shopify<br>
 ✅ UX & UI<br>
 ✅ RESTful API<br>
+✅ React.js<br>
+✅ Node.js<br>
 ✅ Next.js<br>
+✅ MongoDB<br>
 ✅ Laravel<br>
 ✅ PHP<br>
 ✅ MySQL<br>
