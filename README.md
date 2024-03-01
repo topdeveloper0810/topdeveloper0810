@@ -22,6 +22,7 @@
 ✅ React.js<br>
 ✅ Node.js<br>
 ✅ Next.js<br>
+✅ Nest.js<br>
 ✅ MongoDB<br>
 ✅ Laravel<br>
 ✅ PHP<br>
