@@ -30,7 +30,9 @@
 
 ## 📞Contact Me📞
 
-- 🎧 Skype: live:.cid.743e06823719d20d
+- 📧 Email: goldenworrier1998@gamil.com
+- 🎧 Skype: live:.cid.743e06823719d20d LD_0810
+- ☎️ Telegram: Yuji	+1 786 852 8800
 - 📠 Discord: ld_0810
 
 ## 🏫Education🏫
